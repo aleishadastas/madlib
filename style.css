@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 3vw;
+}
+
+span{
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
+
+div{
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 60px;
+    display: block;
+    line-height: 4vw;
+    text-align:left;
+}
